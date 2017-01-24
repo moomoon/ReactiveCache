@@ -32,7 +32,7 @@ artifacts {
 }
 
 dependencies {
-  compile "com.github.VictorAlbertos.RxCache:core:1.6.8"
+  compile "com.github.moomoon.RxCache:core:1.7.1-1.x"
   compile 'com.github.VictorAlbertos.Jolyglot:api:0.0.3'
 
   retrolambdaConfig 'net.orfjackal.retrolambda:retrolambda:2.3.0'
